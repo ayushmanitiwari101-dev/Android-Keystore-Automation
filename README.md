@@ -20,14 +20,17 @@ Before running the tool, make sure you have Python and OpenJDK (`keytool`) insta
 pkg update && pkg upgrade -y
 pkg install python openjdk-17 -y
 
+```
+### For Ubuntu / Linux / PC:
+```bash
 sudo apt update
 sudo apt install python3 default-jdk -y
-git clone [https://github.com/ayushmanitiwari101-dev/Android-Keystore-Automation.git
-https://github.com/ayushmanitiwari101-dev/Android-Keystore-Automation.git
+git clone https://github.com/ayushmanitiwari101-dev/Android-Keystore-Automation.git
 cd Android-Keystore-Automation
 python generate_keystore.py
-
 ```
+
+---
 ## 👤 Author
 
 * **Ayush Mani Tiwari**
