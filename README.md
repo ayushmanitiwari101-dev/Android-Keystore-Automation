@@ -27,7 +27,7 @@ https://github.com/ayushmanitiwari101-dev/Android-Keystore-Automation.git
 cd Android-Keystore-Automation
 python generate_keystore.py
 
-
+```
 ## 👤 Author
 
 * **Ayush Mani Tiwari**
