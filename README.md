@@ -18,23 +18,15 @@ Before running the tool, make sure you have Python and OpenJDK (`keytool`) insta
 ### For Termux (Android):
 ```bash
 pkg update && pkg upgrade -y
-```bash
 pkg install python openjdk-17 -y
-
-```
 
 sudo apt update
 sudo apt install python3 default-jdk -y
-git clone https://github.com/ayushmanitiwari101-dev/Android-Keystore-Automation.git
+git clone [https://github.com/ayushmanitiwari101-dev/Android-Keystore-Automation.git
+https://github.com/ayushmanitiwari101-dev/Android-Keystore-Automation.git
 cd Android-Keystore-Automation
 python generate_keystore.py
 
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/ayushmanitiwari101-dev/Android-Keystore-Automation/issues).
-
----
 
 ## 👤 Author
 
